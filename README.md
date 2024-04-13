@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nest.js & Rust**
 
-- 📫 How to reach me **satishprajapati8@outlook.com**
+- 📫 How to reach me **hey@satishprajapati.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
